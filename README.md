@@ -409,7 +409,7 @@ unset script
 
 I reboot and restart Alpine linux to let the new configs take effect.
 
-With the blow command, you should see mdev & hwdrivers under syinit runlevel:
+With the below command, you should see mdev & hwdrivers under syinit runlevel:
 
 ```sh
 rc-update show -v
